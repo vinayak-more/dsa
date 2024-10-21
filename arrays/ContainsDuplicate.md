@@ -21,10 +21,10 @@ Given an integer array nums, return true if any value appears more than once in 
 class Solution {
     public boolean hasDuplicate(int[] array) {
         Set<Integer> set = new HashSet<>();
-		for(int num : array){
-			if(set.contains(num)) return true;
-			set.add(num);
-		}
+        for(int num : array){
+            if(set.contains(num)) return true;
+            set.add(num);
+        }
         return false;
     }
 }
