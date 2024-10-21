@@ -21,6 +21,7 @@ An **anagram** is a string that contains the exact same characters as another st
 
 `s` and `t` consist of lowercase English letters.
 
+### Code
 
 ```
 import static java.util.*;

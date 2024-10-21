@@ -16,6 +16,7 @@ Given an integer array `nums`, return `true` if any value appears more than once
 >
 >Output: false
 
+### Code
 
 ```
 class Solution {
