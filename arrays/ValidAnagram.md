@@ -23,7 +23,7 @@ An **anagram** is a string that contains the exact same characters as another st
 
 ### Code
 
-```
+```java
 import static java.util.*;
 class Solution {
 

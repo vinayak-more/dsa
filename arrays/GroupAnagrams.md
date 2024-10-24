@@ -31,7 +31,7 @@ An **anagram** is a string that contains the exact same characters as another st
 `strs[i] is made up of lowercase English letters.`
 
 ### Code:
-```
+```java
 class Solution {
 
     public List<List<String>> groupAnagrams(String[] strs) {

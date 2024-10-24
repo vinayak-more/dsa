@@ -18,7 +18,7 @@ Given an integer array `nums`, return `true` if any value appears more than once
 
 ### Code
 
-```
+```java
 class Solution {
     public boolean hasDuplicate(int[] array) {
         Set<Integer> set = new HashSet<>();
