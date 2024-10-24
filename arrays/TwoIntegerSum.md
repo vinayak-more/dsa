@@ -36,7 +36,7 @@ Return the answer with the smaller index first.
 `-10,000,000 <= target <= 10,000,000`
 
 ### Code:
-```
+```java
 class Solution {
 
     public int[] twoSum(int[] nums, int target) {
